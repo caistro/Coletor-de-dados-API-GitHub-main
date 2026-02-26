@@ -1,0 +1,16 @@
+{
+    "total_repos": 11,
+    "total_estrelas": 230447,
+    "top_5_repos_por_estrela": {
+        "1590A": 219016,
+        "AudioNoise": 4248,
+        "GuitarPedal": 1899,
+        "HunspellColorize": 1789,
+        "libdc-for-dirk": 946
+    },
+    "linguagem": {
+        "OpenSCAD": 1,
+        "C": 9,
+        "C++": 1
+    }
+}
